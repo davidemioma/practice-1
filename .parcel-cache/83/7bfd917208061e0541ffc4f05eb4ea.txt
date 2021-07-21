@@ -1,0 +1,11 @@
+10
+95C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\styles\normalize.css132713692121359998 0
+79C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist132713774349159429 1
+92C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\styles\styles.css132713771532016655 0
+85C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\index.html132713762426401082 0
+98C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist\index.20e9196e.css132713774348551158 0
+81C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\styles132713692224242450 1
+102C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist\index.20e9196e.css.map132713774349029779 0
+98C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist\index.76addd40.css132713774348043866 0
+102C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist\index.76addd40.css.map132713774348730581 0
+90C:\Users\Emioma king David\Desktop\WebDev\HTML&CSS with project\practice 1\dist\index.html132713774348033418 0
